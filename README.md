@@ -37,3 +37,4 @@ The following tools were used in the construction of the project:
 
 <img style="border-radius: 50%;" src="https://github.com/giomovini.png" width="100px;" alt=""/>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Vinicius-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204//)](https://www.linkedin.com/in/vinicius-cremon-giomo-87788b204/)
