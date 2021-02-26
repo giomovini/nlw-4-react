@@ -17,7 +17,6 @@
 </h1>
 
 <h4 align="center"> 
-	WebApp - Moveit 
 	<br>
 	<img src="final1.png" alt="Web Version"/>
 	<img src="final2.png" alt="Web Version"/>
